@@ -3,7 +3,7 @@ package test;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub2
+		// TODO Auto-generated method stub3
 
 	}
 
