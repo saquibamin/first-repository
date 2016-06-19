@@ -13,9 +13,12 @@ public class DateUtils {
 	private static Date getLocalCurrentDate() {
 	
 		return new Date();
-
+<<<<<<< HEAD
         // from git
-
+=======
+		//from git
+>>>>>>> refs/remotes/origin/master
+		
 	}
 
 }
