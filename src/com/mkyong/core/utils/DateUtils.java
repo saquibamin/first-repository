@@ -14,8 +14,10 @@ public class DateUtils {
 	
 		return new Date();
 
-        // from git
+        // from git 2
+        // added from eclipse
 
+	
 	}
 
 }
