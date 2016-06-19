@@ -13,7 +13,8 @@ public class DateUtils {
 	private static Date getLocalCurrentDate() {
 	
 		return new Date();
-
+		
+     // 
      // FROM ECLIPSE
 	
 	}
