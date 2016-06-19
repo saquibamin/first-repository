@@ -15,7 +15,8 @@ public class DateUtils {
 		return new Date();
 		
      // 
-     // FROM ECLIPSE
+     // FROM ECLIPSE append from eeclipse
+     //
 	
 	}
 
